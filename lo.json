@@ -1,0 +1,292 @@
+{
+    "intents": 
+    [
+        {
+            "patterns": [
+                "hello",
+                "hi",
+                "hey"
+            ],
+            "responses": [
+                "Hi there!",
+                "Hello!",
+                "Greetings!",
+                "hi there"
+            ]
+        },
+        {
+            "patterns": [
+                "how are you",
+                "how's it going"
+            ],
+            "responses": [
+                "I'm doing well, thank you!",
+                "I'm good, how about you?"
+            ]
+        },
+        {
+            "patterns": [
+                "bye",
+                "goodbye",
+                "see you later"
+            ],
+            "responses": [
+                "Goodbye!",
+                "See you later!",
+                "Have a great day!"
+            ]
+        },
+        {
+            "patterns": [
+                "thanks",
+                "thank you",
+                "thanks a lot"
+            ],
+            "responses": [
+                "You're welcome!",
+                "No problem!",
+                "Anytime!"
+            ]
+        },
+        {
+            "patterns": [
+                "what is your name?",
+                "tell me your name?",
+                "what's your name?"
+            ],
+            "responses": [
+                "MUJ Chatbot",
+                "MUJ Chatbot",
+                "MUJ Chatbot"
+            ]
+		},   
+        {
+            "patterns": [
+                "What are the key features of the Central Library at MUJ?",
+                "Tell me about the central library of MUJ"
+            ],
+            "responses": [
+                "The Central Library at MUJ boasts a spacious area of 2319 Sq.m., accommodating up to 700 individuals comfortably. Utilizing RFID technology, it ensures efficient access control and automated issue/return of documents. With a vast collection of 57,800 books spanning 14,500 titles, including over 3,000 reference books, the library offers a rich academic resource. Additionally, it subscribes to approximately 400 print journals, houses 450+ project reports, and holds 95 Ph.D. Theses. Moreover, the library provides access to 18 e-resources, encompassing e-journals, manuals, and reports, while also maintaining a CD/DVD collection of nearly 2,500.",
+                "The Central Library at MUJ boasts a spacious area of 2319 Sq.m., accommodating up to 700 individuals comfortably. Utilizing RFID technology, it ensures efficient access control and automated issue/return of documents. With a vast collection of 57,800 books spanning 14,500 titles, including over 3,000 reference books, the library offers a rich academic resource. Additionally, it subscribes to approximately 400 print journals, houses 450+ project reports, and holds 95 Ph.D. Theses. Moreover, the library provides access to 18 e-resources, encompassing e-journals, manuals, and reports, while also maintaining a CD/DVD collection of nearly 2,500."
+            ]
+		},
+        {
+            "patterns": [
+                "What are the working hours of central library?",
+                "what are the working hours of clg library?",
+                "what are the timings for the library?"
+            ],
+            "responses": [
+                "1. Weekdays: 8:30 am - 11:00 pm (Working hours), 8:00 am - 6:00 pm ; 2. Weekend & Holidays: 9:00 am - 6:00 pm (Working hours).",
+                "8:30 am - 11:00 pm for weekdays and 9:00 am - 6:00 pm for weekends & holidays",
+                "8:00 am to 11:00 pm (weekdays) and 9:00 am to 6:00 pm (weekends & holidays)"
+            ]
+        },
+        {
+            "patterns": [
+                "When can we issue or return books in the library?",
+                "what are the timings to issue or return books in the library?",
+                "At what hours can we issue or return books in the library?"
+            ],
+            "responses": [
+                "8:00 am - 6:00 pm (Weekdays) and 9:00 am to 6:00pm (Weekdays & holidays)",
+                "8:00 am - 11:00 pm for weekdays and 9:00 am - 6:00 pm for weekends & holidays",
+                "8:00 am - 6:00 pm (Weekdays) and 9:00 am to 6:00pm (Weekdays & holidays)"
+            ]
+        },
+        {
+            "patterns": [
+                "How many blocks are there in MUJ?",
+                "No.of blocks in MUJ?"
+            ],
+            "responses": [
+                "There are 3 academic blocks in muj: AB1, AB2 and AB3",
+                "3 (AB1, AB2 and AB3)"
+            ]
+        },
+        {
+            "patterns": [
+                "Central library location?",
+                "Give me the directions to central library",
+                "Where is the central library located?"
+            ],
+            "responses": [
+                "Ground floor, Dome building",
+                "Ground floor, Dome building, opposite to grand stairs",
+                "Central library is located in ground floor, dome building"
+            ]
+        },
+        {
+            "patterns": [
+                "No.of Departments in Btech?",
+                "What are the total no.of depts in Btech?"
+            ],
+            "responses": [
+                "19 Departments",
+                "There are 19 departments in Btech"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the seating capacity of central library?",
+                "What is the seating capacity of college library?"
+            ],
+            "responses": [
+                "The seating capacity is 700",
+                "The seating capacity is 700"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the size of central library?",
+                "How large is the central library?"
+            ],
+            "responses": [
+                "Library size: 2319 Sq.m.",
+                "2319 Sq.m."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Chief librarian of MUJ?",
+                "Who is the chief librarian?"
+            ],
+            "responses": [
+                "The Chief Librarian of MUJ is Dr. K.S. Shivraj",
+                "Dr. K.S. Shivraj"
+            ]
+        },
+        {
+            "patterns": [
+                "How to contact Central library of MUJ?",
+                "How to contact library?"
+            ],
+            "responses": [
+                "Email: books@jaipur.manipal.edu",
+                "Email: books@jaipur.manipal.edu"
+            ]
+        },
+        {
+            "patterns": [
+                "How to contact MUJ?",
+                "What is the contact number of MUJ?",
+                "How do I contact MUJ?"
+            ],
+            "responses": [
+                "If you need assistance with international admissions, you can reach them at +91-8527 268 909 or +971-507 980 775. For general help, you can contact them at +91-7996 600 444.",
+                "For international admissions, +91-8527 268 909 or +971-507 980 775 and for general help, +91-7996 600 444",
+                "For international admissions, +91-8527 268 909 or +971-507 980 775 and for general help,+91-7996 600 444"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the president of MUJ?",
+                "Who is the president of manipal university jaipur?"
+            ],
+            "responses": [
+                "Professor Dr. Gopalakrishna Prabhu K",
+                "Professor Dr. Gopalakrishna Prabhu K"
+            ]
+        },
+        {
+            "patterns": [
+                "How to get admission into MUJ?",
+                "How to know more about MUJ?"
+            ],
+            "responses": [
+                "Visit the university website or contact admissions@jaipur.manipal.edu",
+                "Visit the university website or contact admissions@jaipur.manipal.edu"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the admission criteria to join MUJ?",
+                "How to get admission into MUJ?"
+            ],
+            "responses": [
+                "All students who have QUALIFIED met TEST ( OR ) a JEE rank and have qualified for JEE Advanced in that year ( OR ) All other Students with Physics, Mathematics and English as compulsory subjects and who have 60 percent or equivalent in their 12th std.",
+                "Students with MET rank or JEE rank and qualified for JEE ADVANCED or having 60 percent above in 12th standard."
+            ]
+        },
+        {
+            "patterns": [
+                "No. of students in MUJ?",
+                "How many students are there in MUJ?"
+            ],
+            "responses": [
+                "There are 14000+ students in MUJ.",
+                "14000+ students."
+            ]
+        },
+        {
+            "patterns": [
+                "Does MUJ allow international admissions?",
+                "Can international students join MUJ?"
+            ],
+            "responses": [
+                "Yes",
+                "Yes"
+            ]
+        },
+        {
+            "patterns": [
+                "How many auditoriums does MUJ have?",
+                "What are the total no.of auditoriums in MUJ?"
+            ],
+            "responses": [
+                "There 3 auditoriums.",
+                "3 auditoriums"
+            ]
+        },
+        {
+            "patterns": [
+                "How many amphiteatres does MUJ have and where?",
+                "where is the open amphitheatre?"
+            ],
+            "responses": [
+                "1 and it is located in AB2",
+                "Located in AB2, manipal university jaipur."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the average capacity of an auditorium?",
+                "Avg strength of an auditorium?"
+            ],
+            "responses": [
+                "It can be around 200-250 with maxiumum having 300",
+                "200-250."
+            ]
+        },
+        {
+            "patterns": [
+                "What are college timings of MUJ?",
+                "What are the college timings?"
+            ],
+            "responses": [
+                "9:00 am to 5:15 pm",
+                "9:00 am to 5:15 pm"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the dean of Faculty of engineering?",
+                "Who is the dean of engineering department?"
+            ],
+            "responses": [
+                "Prof (Dr) Arun Shanbhag is a Professor & Dean, Faculty of Engineering at Manipal University Jaipur",
+                "Prof (Dr) Arun Shanbhag is a Professor & Dean, Faculty of Engineering at Manipal University Jaipur"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the approximate cost for a course to study at MUJ?",
+                "What is the average cost for a course in MUJ?"
+            ],
+            "responses": [
+                "Each program has a separate fee that you can find on that specific page.",
+                "Each program has different fees structure. Visit the university website for more info."
+            ]
+        }
+	]    
+}
